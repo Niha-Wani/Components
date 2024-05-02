@@ -1,2 +1,1 @@
-# Components
-Created with CodeSandbox
+# React Components
